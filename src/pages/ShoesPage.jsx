@@ -11,7 +11,7 @@ function ShoesPage() {
   return (
     <div>
       <Typography variant="h4" sx={{ mt: 4, mb: 2 }}>
-        BackPack
+        Shoes
       </Typography>
       <Box
         sx={{
